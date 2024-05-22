@@ -1,4 +1,4 @@
-The project is done on the demo data taken from the Kaggle for the practice purpose and doesn't represent or affliated to any organisation.
+The project is done on the demo data taken from  Kaggle for practice purpose and doesn't represent or is affiliated to any organisation.
 Manipulation that is done on the data;
 1. Data cleaning.
 2. Data processing (creating customised columns, etc).
