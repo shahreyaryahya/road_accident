@@ -1,0 +1,7 @@
+The project is done on the demo data taken from the Kaggle for the practice purpose and doesn't represent or affliated to any organisation.
+Manipulation that is done on the data;
+1. Data cleaning.
+2. Data processing (creating customised columns, etc).
+3. Data analysis (aggregation of data, building differrent views and charts, etc.)
+4. Data visualisation (building custom charts and formatting them, etc.)
+5. Finally creating a dynamic dashboard/report from the followup steps with different filters and slicers.
